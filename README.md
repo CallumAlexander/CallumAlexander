@@ -23,4 +23,4 @@ framework for the *16,000+* line C++ codebase.
 When I manage to free up some time from studying and working, 
 I play hockey for Edinburgh University Men's Hockey Club, read Brian Herbert, and write scripts to display a Cowsay quoting Sacha Baron Cohen.
 
--  ⚡ Languages: Java, Python3, C++
+-  ⚡ Languages: Java, Python, C++, Haskell, C
