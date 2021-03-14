@@ -9,7 +9,6 @@
 | [Instagram](https://www.instagram.com/cal.zander/)
 | [Wakatime](https://wakatime.com/@CallumAlexander)
 
-## Hi 👋, 
 My name is Callum Alexander, I am a **2nd year undergraduate studying Informatics (Computer Science)
 at the University of Edinburgh**. I have academic interests in data science, artificial intelligence, and
 software engineering.
