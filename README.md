@@ -20,6 +20,8 @@ I am also a **Quality Assurance Engineer at HYPED**, currently developing a test
 framework for the *16,000+* line C++ codebase.
 <br><br>
 When I manage to free up some time from studying and working, 
-I play hockey for Edinburgh University Men's Hockey Club, read Brian Herbert, and write scripts to display a Cowsay quoting Sacha Baron Cohen.
+I play hockey for Edinburgh University Men's Hockey Club, read Brian Herbert and other authors, am an Asura Ranger found exploring on Fisher of Woe, 
+am a very budget FIFA player, am a half-decent Mario Kart Wii player with Funky Kong and nunchucks, and write scripts to display a 
+Cowsay quoting Sacha Baron Cohen.
 
 -  ⚡ Languages: Java, Python, C++, Haskell, C
