@@ -21,10 +21,11 @@ I am also a **Quality Assurance Engineer at HYPED**, currently developing a test
 framework for the *16,000+* line C++ codebase.
 <br><br>
 When I manage to free up some time from studying and working, 
-I play hockey for Edinburgh University Men's Hockey Club, read Brian Herbert and other authors, am an Asura Ranger found exploring on Fisher of Woe, 
-am a very budget FIFA player, am a half-decent Mario Kart Wii player with Funky Kong and nunchucks, and write scripts to display a 
+I play hockey for Edinburgh University Men's Hockey Club, read Brian Herbert and other authors, I am an Asura Ranger found exploring on Fisher of Woe, 
+I am a very budget FIFA player, I am a half-decent Mario Kart Wii player with Funky Kong and nunchucks, and write scripts to display a 
 Cowsay quoting Sacha Baron Cohen.
 <br>
 My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 
--  ⚡ Languages: Java, Python, C++, Haskell, C
+#### Looking to contact me? Drop me a message on LinkedIn [here](https://twitter.com/thecatthatbarks) 
+ -  ⚡ Languages: Java, Python, C++, Haskell, C
