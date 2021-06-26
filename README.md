@@ -13,7 +13,7 @@ My name is Callum Alexander, I am an **incoming 3rd year undergraduate studying 
 at the University of Edinburgh**. I have academic interests in data science, artificial intelligence, and
 software engineering.
 <br><br>
-I am the incoming **Website & Publicity Secretary for Edinburgh University Men's
+I am the **Website & Publicity Secretary for Edinburgh University Men's
 Hockey Club**, the *most successful* university men's hockey club in Scotland, and the *largest* university hockey club in the United Kingdom.
 My role is to manage the public image of the club through our various social media channels and website. 
 <br><br>
