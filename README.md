@@ -27,5 +27,5 @@ Cowsay quoting Sacha Baron Cohen.
 <br>
 My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 
-#### Looking to contact me? Drop me a message on LinkedIn [here](https://twitter.com/thecatthatbarks) 
+#### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
  -  ⚡ Languages: Java, Python, C++, Haskell, C
