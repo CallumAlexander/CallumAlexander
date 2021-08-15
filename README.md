@@ -25,7 +25,10 @@ I play hockey for Edinburgh University Men's Hockey Club, read Brian Herbert and
 I am a very budget FIFA player, I am a half-decent Mario Kart Wii player with Funky Kong and nunchucks, and write scripts to display a 
 Cowsay quoting Sacha Baron Cohen.
 <br>
+I dabble in areas of fintech, machine learning, data applications to healthcare, and computer security. I have attended several hackathons, each
+of them with a different theme.
+<br>
 My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 
 #### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
- -  ⚡ Languages: Java, Python, C++, Haskell, C
+ -  ⚡ Languages: Python, Java, C++, Haskell, C
