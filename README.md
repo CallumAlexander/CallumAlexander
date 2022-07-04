@@ -27,7 +27,7 @@ My role is to manage the public image of the club through our various social med
 <br><br>
 When I manage to free up some time from studying and working:
 - I play hockey for Edinburgh University Men's Hockey Club
-- Eead Brian Herbert, Brandon Sanderson and other authors 
+- Read Brian Herbert, Brandon Sanderson and other authors 
 - I am an Asura Ranger found exploring on Fisher of Woe
 - I am a very budget FIFA player, I am a half-decent Mario Kart Wii player with Funky Kong and nunchuck.
   
