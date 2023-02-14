@@ -11,7 +11,7 @@
 | [Wakatime](https://wakatime.com/@CallumAlexander)
 
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=CallumAlexander&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CallumAlexander&theme=gruvbox&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
 <br><br>
 
 My name is Callum Alexander, I am an **4th year undergraduate studying Informatics (Computer Science)
