@@ -10,7 +10,11 @@
 | [Instagram](https://www.instagram.com/cal.zander/)
 | [Wakatime](https://wakatime.com/@CallumAlexander)
 
-My name is Callum Alexander, I am an **incoming 4th year undergraduate studying Informatics (Computer Science)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CallumAlexander&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+<br><br>
+
+My name is Callum Alexander, I am an **4th year undergraduate studying Informatics (Computer Science)
 at the University of Edinburgh**. I have academic interests in data science, artificial intelligence, and
 software engineering, and computer security.
 <br><br>
@@ -27,9 +31,9 @@ My role is to manage the public image of the club through our various social med
 <br><br>
 When I manage to free up some time from studying and working:
 - I play hockey for Edinburgh University Men's Hockey Club
-- Read Brian Herbert, Brandon Sanderson and other authors 
+- I read Brian Herbert, Brandon Sanderson and other authors 
 - I am an Asura Ranger found exploring on Fisher of Woe
-- I am a very budget FIFA player, I am a half-decent Mario Kart Wii player with Funky Kong and nunchuck.
+- I am a very budget FIFA player, I am a half-decent Mario Kart Wii player with Funky Kong and nunchucks.
   
 <br>
 I dabble in areas of fintech, machine learning, data applications to healthcare, and computer security. I have attended several hackathons, each
@@ -37,7 +41,7 @@ of them with a different theme.
 <br>
 My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 <br>
-Current Daily Driver: Ubuntu 20.04.4 LTS, Xfce
+Current Daily Driver: Windows 11, Ubuntu 22 with i3 twm virtual machine.
 
 #### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
  -  ⚡ Languages: Python, Java, C++, Haskell, C
