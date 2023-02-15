@@ -25,8 +25,8 @@ I am currently the **Vice President** of Edinburgh University Men's Hockey Club,
 I help co-lead a committee of 25 members while heading various sub committees on running and developing the club.
 <br>
 From June 2021 to May 2022, I was the **Website & Publicity Secretary** for Edinburgh University Men's
-Hockey Club
-My role is to manage the public image of the club through our various social media channels and website. You can find the club website I designed from scratch [here](https://euhc.co.uk), and my social media content [here](https://www.instagram.com/eumhc/) (Look for content dated between June 2021 to May 2022)
+Hockey Club.
+My role ias to manage the public image of the club through our various social media channels and website. You can find the club website I designed from scratch [here](https://euhc.co.uk), and my social media content [here](https://www.instagram.com/eumhc/) (Look for content dated between June 2021 to May 2022)
 
 <br><br>
 When I manage to free up some time from studying and working:
