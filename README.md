@@ -11,6 +11,9 @@
 | [Wakatime](https://wakatime.com/@CallumAlexander)
 
 <br>
+
+<img src="https://giphy.com/embed/HfJdu4HABDU3e">
+
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CallumAlexander&theme=gruvbox&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
 <br><br>
 
