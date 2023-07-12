@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Cal Alexander </h1>
-</div>
+
 
 
 
@@ -12,6 +12,7 @@
 | [Instagram](https://www.instagram.com/cal.zander/)
 | [Wakatime](https://wakatime.com/@CallumAlexander)
 
+</div>
 <br>
 
 <center>
