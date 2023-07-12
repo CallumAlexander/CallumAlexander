@@ -13,10 +13,10 @@
 <br>
 
 <center>
-				<img src="https://giphy.com/embed/HfJdu4HABDU3e">
+<img src="https://giphy.com/embed/HfJdu4HABDU3e">
 
-				[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CallumAlexander&theme=gruvbox&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
-				<br><br>
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CallumAlexander&theme=gruvbox&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
+<br><br>
 
 </center>
 My name is Callum Alexander, I am an **incoming final year undergraduate studying Informatics (Computer Science)
