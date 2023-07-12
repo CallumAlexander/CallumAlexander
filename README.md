@@ -24,7 +24,7 @@ software engineering, and computer security.
 Previously I have been a **Quality Assurance Engineer at HYPED**, where I helped develop a testing
 framework for the *16,000+* line C++ codebase.
 <br><br>
-From June 2022 to May 2023, I was the **Vice President** of Edinburgh University Men's Hockey Club, the *most successful* university men's hockey club in Scotland, and the *largest* university hockey club in the United Kingdom.
+From June 2022 to May 2023, I was the **Vice President** of Edinburgh University Men's Hockey Club, the *most successful* university men's hockey club in Scotland, and the *largest* university sports club in the United Kingdom.
 I helped co-lead a committee of 25 members while heading various sub committees on running and developing the club.
 <br>
 From June 2021 to May 2022, I was the **Website & Publicity Secretary** for Edinburgh University Men's
