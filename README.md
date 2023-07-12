@@ -4,9 +4,7 @@
 
 
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CallumAlexander)
-
-| [LinkedIn](https://www.linkedin.com/in/callum-a-95640013b/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CallumAlexander)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callum-a-95640013b/)
 | [Twitter](https://twitter.com/thecatthatbarks)
 | [Website](https://callumalexander.github.io/)
 | [Kaggle](https://www.kaggle.com/callumalexander)
