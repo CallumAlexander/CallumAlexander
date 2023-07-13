@@ -20,6 +20,10 @@
 <br><br>
 </div>
 
+<div align="center">
+<h1> About me </h1>
+</div>
+
 My name is Callum Alexander, I am an **incoming final year undergraduate studying Informatics (Computer Science)
 at the University of Edinburgh**. I have academic interests in data science, artificial intelligence, and
 software engineering, and computer security.
@@ -50,4 +54,4 @@ My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everyt
 Current Daily Driver: Windows 11, Ubuntu 22 with i3 twm virtual machine (see my dotfile repo).
 
 #### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
- -  ⚡ Languages: Python, Java, C++, Haskell, C
+ -  ⚡ Languages: ![Python]( 	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskel](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
