@@ -12,6 +12,8 @@
 
 <div align="center">
 
+[![wakatime](https://wakatime.com/badge/user/eb310a2d-fc37-4859-8755-b6b88930af57.svg)](https://wakatime.com/@eb310a2d-fc37-4859-8755-b6b88930af57)
+
 ![](https://komarev.com/ghpvc/?username=CallumAlexander&color=green&style=for-the-badge)
 
 <img src="https://media1.giphy.com/media/HfJdu4HABDU3e/giphy.gif?cid=ecf05e47bmw6fdkx199xlag2lql8hj7dbbcd2a1wuc0xn5nb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
