@@ -18,12 +18,21 @@
 
 <img src="https://media1.giphy.com/media/HfJdu4HABDU3e/giphy.gif?cid=ecf05e47bmw6fdkx199xlag2lql8hj7dbbcd2a1wuc0xn5nb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<div align="left">
+<table>
+<tr>
+<td>
+
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CallumAlexander&theme=gruvbox&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
-</div>
-<div align="right">
+
+</td>
+<td>
+
 [![Callum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallumAlexander)](https://github.com/CallumAlexander/github-readme-stats)
-</div>
+
+</td>
+</tr>
+</table>
+
 <br><br>
 </div>
 
