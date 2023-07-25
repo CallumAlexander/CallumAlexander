@@ -27,7 +27,7 @@
 </td>
 <td>
 
-[![Callum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallumAlexander)](https://github.com/CallumAlexander/github-readme-stats)
+[![Callum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallumAlexander&show_icons=true&theme=gruvbox)](https://github.com/CallumAlexander/github-readme-stats)
 
 </td>
 </tr>
