@@ -63,12 +63,17 @@ When I manage to free up some time from studying and working:
 - I play Screeps, and Factorio. 
   
 <br>
+
 I dabble in areas of fintech, machine learning, data applications to healthcare, and computer security. I have attended several hackathons, each
 of them with a different theme.
+
 <br><br>
+
 My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
+
 <br><br>
-**Current Daily Driver**: [EndeavourOS](https://endeavouros.com/) - I switch regularly between Hyprland and Sway as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
+
+**Current Daily Driver**: [EndeavourOS](https://endeavouros.com/) - I switch regularly between [Hyprland](https://hyprland.org/) and [Sway](https://swaywm.org/) as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
 
 #### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
 <div align="center"> <h3>Languages</h3></div>
