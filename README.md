@@ -69,7 +69,7 @@ of them with a different theme.
 
 <br><br>
 
-My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
+My Font is <span style="font-family: JetBrains Mono">JetBrains Mono</span>, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 
 <br><br>
 
