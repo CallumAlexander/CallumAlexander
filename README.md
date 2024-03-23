@@ -57,6 +57,7 @@ My role was to manage the public image of the club through our various social me
 <br><br>
 When I manage to free up some time from studying and working:
 - I play hockey for Edinburgh University Men's Hockey Club
+- I am a serial *nix 'ricer' and often find myself messing with random CSS files in my spare time, having hopped between four GNU/Linux distros and six different desktop environments.
 - I read Brian Herbert, Brandon Sanderson and other authors 
 - I am an Asura Ranger found exploring on Fisher of Woe
 - I play Screeps, and Factorio. 
@@ -64,13 +65,13 @@ When I manage to free up some time from studying and working:
 <br>
 I dabble in areas of fintech, machine learning, data applications to healthcare, and computer security. I have attended several hackathons, each
 of them with a different theme.
-<br>
+<br><br>
 My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
-<br>
-Current Daily Driver: EndeavourOS - I switch regularly between Hyprland and Sway as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
+<br><br>
+**Current Daily Driver**: [EndeavourOS](https://endeavouros.com/) - I switch regularly between Hyprland and Sway as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
 
 #### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
 <div align="center"> <h3>Languages</h3></div>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskel](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
