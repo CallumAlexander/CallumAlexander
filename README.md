@@ -40,7 +40,7 @@
 <h1> About me </h1>
 </div>
 
-My name is Callum Alexander, I am an **incoming final year undergraduate studying Informatics (Computer Science)
+My name is Callum Alexander, I am a **final year undergraduate studying Informatics (Computer Science)
 at the University of Edinburgh**. I have academic interests in data science, artificial intelligence, and
 software engineering, and computer security.
 <br><br>
@@ -67,7 +67,7 @@ of them with a different theme.
 <br>
 My Font is JetBrains Mono, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 <br>
-Current Daily Driver: Windows 11, Ubuntu 22 with i3 twm virtual machine (see my dotfile repo).
+Current Daily Driver: EndeavourOS - I switch regularly between Hyprland and Sway as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
 
 #### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
 <div align="center"> <h3>Languages</h3></div>
