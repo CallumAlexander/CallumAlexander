@@ -55,7 +55,13 @@ My Font is <span style="font-family: JetBrains Mono">JetBrains Mono</span>, my T
       target="_blank">here</a> which I would recommend you use to contact me with!
 </section>
 
-<br>
+<section id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <p>You can send me an email <a href="mailto:calexander.website.fpcq5@silomails.com" target="_blank">here</a>. It's
+      also the same email address associated with the public key <a href="#pgp">above</a>.</p>
+  </section>
+
+--- 
 
 **Current Daily Driver**: [EndeavourOS](https://endeavouros.com/) - I switch regularly between [Hyprland](https://hyprland.org/) and [Sway](https://swaywm.org/) as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
 
