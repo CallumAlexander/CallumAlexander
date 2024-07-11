@@ -41,12 +41,21 @@
 </div>
 
 <p>I am a recent computer science integrated masters graduate from The University of Edinburgh.</p>
-<p>I have passions for books, field hockey, and any situations where I can apply a bash or python script</p>
+<p>I have passions for books, field hockey, and any situations where I can apply a bash or python script.</p>
 
 
 My Font is <span style="font-family: JetBrains Mono">JetBrains Mono</span>, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 
-<br><br>
+<br>
+
+<section id="pgp" class="pgp">
+  <h2>Privacy is cool</h2>
+    I am a big fan of privacy and you can find my public key <a
+      href="https://keys.openpgp.org/vks/v1/by-fingerprint/7053D378790B4C29B98688AE9A050DF5C2B9E634"
+      target="_blank">here</a> which I would recommend you use to contact me with!
+</section>
+
+<br>
 
 **Current Daily Driver**: [EndeavourOS](https://endeavouros.com/) - I switch regularly between [Hyprland](https://hyprland.org/) and [Sway](https://swaywm.org/) as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
 
