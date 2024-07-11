@@ -41,10 +41,12 @@
 </div>
 
 <p>I am a recent computer science integrated masters graduate from The University of Edinburgh.</p>
-<p>I have passions for books, field hockey, and any situations where I can apply a bash or python script.</p>
+<p>I have passions for books, field hockey, and any situation where I can apply a bash or python script.</p>
 
 
-My Font is <span style="font-family: JetBrains Mono">JetBrains Mono</span>, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
+My Font is <span style="font-family: JetBrains Mono">JetBrains Mono</span>, my Themes are OneDark (dark) and OneDark Light (light) on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
+
+**Current Daily Driver**: [EndeavourOS](https://endeavouros.com/) - I switch regularly between [Hyprland](https://hyprland.org/) and [Sway](https://swaywm.org/) as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
 
 <br>
 
@@ -61,11 +63,9 @@ My Font is <span style="font-family: JetBrains Mono">JetBrains Mono</span>, my T
       also the same email address associated with the public key <a href="#pgp">above</a>.</p>
   </section>
 
---- 
+---
 
-**Current Daily Driver**: [EndeavourOS](https://endeavouros.com/) - I switch regularly between [Hyprland](https://hyprland.org/) and [Sway](https://swaywm.org/) as my working window managers. I have previously used GNOME, Plasma, i3wm, and XFCE as working DEs/WMs.
-
-#### Looking to contact me? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
+#### Looking to contact me about something *professional*? Drop me a message on LinkedIn [here](https://www.linkedin.com/in/callum-a-95640013b/)
 <div align="center"> <h3>Languages</h3></div>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
