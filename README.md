@@ -40,34 +40,9 @@
 <h1> About me </h1>
 </div>
 
-My name is Callum Alexander, I am a **final year undergraduate studying Informatics (Computer Science)
-at the University of Edinburgh**. I have academic interests in data science, artificial intelligence, and
-software engineering, and computer security.
-<br><br>
-Previously I have been a **Quality Assurance Engineer at HYPED**, where I helped develop a testing
-framework for the *16,000+* line C++ codebase.
-<br><br>
-From June 2022 to May 2023, I was the **Vice President** of Edinburgh University Men's Hockey Club, the *most successful* university men's hockey club in Scotland, and the *largest* university sports club in the United Kingdom.
-I helped co-lead a committee of 25 members while heading various sub committees on running and developing the club.
-<br>
-From June 2021 to May 2022, I was the **Website & Publicity Secretary** for Edinburgh University Men's
-Hockey Club.
-My role was to manage the public image of the club through our various social media channels and website. You can find the club website I designed from scratch [here](https://euhc.co.uk), and my social media content [here](https://www.instagram.com/eumhc/) (Look for content dated between June 2021 to May 2022)
+<p>I am a recent computer science integrated masters graduate from The University of Edinburgh.</p>
+<p>I have passions for books, field hockey, and any situations where I can apply a bash or python script</p>
 
-<br><br>
-When I manage to free up some time from studying and working:
-- I play hockey for Edinburgh University Men's Hockey Club
-- I am a serial *nix 'ricer' and often find myself messing with random CSS files in my spare time, having hopped between four GNU/Linux distros and six different desktop environments.
-- I read Brian Herbert, Brandon Sanderson and other authors 
-- I am an Asura Ranger found exploring on Fisher of Woe
-- I play Screeps, and Factorio. 
-  
-<br>
-
-I dabble in areas of fintech, machine learning, data applications to healthcare, and computer security. I have attended several hackathons, each
-of them with a different theme.
-
-<br><br>
 
 My Font is <span style="font-family: JetBrains Mono">JetBrains Mono</span>, my Theme is OneDark on everything (when I mean everything I literally mean everything). I prefer spaces to tabs.
 
